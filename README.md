@@ -94,17 +94,17 @@ I enjoy working with Java, front-end technologies, and interactive UI concepts.
 
 📬 Contact
 
-Email: your-email@example.com
+Email: bathalanagaraju96@gmail.com
 
-Phone: your-number
+Phone: 6304879760
 
-GitHub: your-link
+GitHub: https://github.com/naga666999
 
-LinkedIn: your-link
+LinkedIn: https://www.linkedin.com/in/naga-raju-081942280
 
 🌟 Live Demo
 
-👉 Add your deployed link here after publishing (GitHub Pages / Netlify / Vercel)
+👉 
 
 📜 License
 
